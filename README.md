@@ -2,6 +2,7 @@
 
 ElasticSearch 클러스터 상태 체크를 하는 스크립트를 기술합니다.
 * 개발환경 - Python 2.7.10
+* sys, json, urllib3 site package import
 
 ## esbot 스크립트 설치하기
 
